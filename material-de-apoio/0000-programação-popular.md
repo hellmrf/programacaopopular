@@ -2,8 +2,6 @@
 
 🎥 [Assista ao vídeo](https://youtu.be/LoyJ4EjatMo)
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/LoyJ4EjatMo" title="O canal acabou? Foi vendido? Me avistaram? | Programação Popular" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Saudações! A história desse canal começou há mais de dez anos. Fruto de uma fome de mudar o mundo, sei la, eu resolvi compartilhar com as pessoas o conhecimento que eu adquiria. O primeiro nome do canal foi HM Tutoriais, que então virou HM Programming, ou *eitch-emm programming*... Até hoje eu não sei muito bem como falar isso. Muito tempo foi com esse nome que, é claro, faz alusão ao meu nome. Mas o tempo passa, as coisas mudam, evoluem. Às vezes melhoram, às vezes não. 2013. Vivemos [Não Vai Ter Copa](https://pt.wikipedia.org/wiki/Protestos_no_Brasil_contra_a_Copa_do_Mundo_FIFA_de_2014) e [Jornadas de Junho](https://pt.wikipedia.org/wiki/Jornadas_de_Junho) naquele ano, você lembra disso? Mas o que nasceu com a gente nos acompanha, e a forma se aprimora.
 
 Eu sou [Heliton Martins](https://hellmrf.dev.br/bio), estudo [Química Computacional](https://pt.wikipedia.org/wiki/Qu%C3%ADmica_computacional) na [Universidade Federal de Minas Gerais](https://pt.wikipedia.org/wiki/Universidade_Federal_de_Minas_Gerais), a UFMG, aqui em Belo Horizonte.
