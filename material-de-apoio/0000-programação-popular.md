@@ -1,6 +1,6 @@
-# "O canal acabou? Foi vendido? Me avistaram? | Programação Popular"
+# O canal acabou? Foi vendido? Me avistaram? | Programação Popular
 
-🎥 [Assista ao vídeo](https://youtu.be/LoyJ4EjatMo)
+[🎥 Assista ao vídeo](https://youtu.be/LoyJ4EjatMo) | ☑️ [Se inscreva no canal](https://www.youtube.com/@programacaopopular?sub_confirmation=1) | [📚 GitHub do projeto](https://github.com/hellmrf/programacaopopular/) (dá uma ⭐?)
 
 Saudações! A história desse canal começou há mais de dez anos. Fruto de uma fome de mudar o mundo, sei la, eu resolvi compartilhar com as pessoas o conhecimento que eu adquiria. O primeiro nome do canal foi HM Tutoriais, que então virou HM Programming, ou *eitch-emm programming*... Até hoje eu não sei muito bem como falar isso. Muito tempo foi com esse nome que, é claro, faz alusão ao meu nome. Mas o tempo passa, as coisas mudam, evoluem. Às vezes melhoram, às vezes não. 2013. Vivemos [Não Vai Ter Copa](https://pt.wikipedia.org/wiki/Protestos_no_Brasil_contra_a_Copa_do_Mundo_FIFA_de_2014) e [Jornadas de Junho](https://pt.wikipedia.org/wiki/Jornadas_de_Junho) naquele ano, você lembra disso? Mas o que nasceu com a gente nos acompanha, e a forma se aprimora.
 
