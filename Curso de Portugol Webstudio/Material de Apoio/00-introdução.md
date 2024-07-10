@@ -9,8 +9,10 @@
 - Primeiro contato com o ambiente
 
 ## Links
-- [Download do Portugol Studio (Github)](https://github.com/UNIVALI-LITE/Portugol-Studio/releases)
-- [Download do Portugol Studio (Site oficial)](https://univali-lite.github.io/Portugol-Studio/)
+- [Portugol Webstudio](https://portugol.dev/)
+- [Portugol Webstudio (Github)](https://github.com/dgadelha/Portugol-Webstudio/)
+- [Portugol Studio (Site oficial)](https://univali-lite.github.io/Portugol-Studio/)
+- [Portugol Studio (Github)](https://github.com/UNIVALI-LITE/Portugol-Studio/)
 
 ## Introdução
 
